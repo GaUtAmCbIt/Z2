@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.supportHero{
+  padding-bottom: 100px;
+  background-color: #387ed1;
+}
+
+.supportLinks{
+  display: flex;
+  justify-content: space-between;
+}
